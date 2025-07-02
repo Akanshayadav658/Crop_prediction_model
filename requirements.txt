@@ -1,6 +1,6 @@
 numpy
 pandas
-setuptools
-Flask
+setuptools>=65
+Flask>=2.3
 scikit-learn==1.6.0
 gunicorn
